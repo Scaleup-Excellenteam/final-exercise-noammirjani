@@ -1,4 +1,12 @@
-*.pptx
+
 temp.py
 .idea
 *.json
+*.txt
+__pycache__/
+*.pyc
+.DS_Store
+.pyTestCache/
+test/.pytest_cache
+uploads
+outputs
